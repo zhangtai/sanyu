@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "cSpell.words": [
+      "Cookiecutter",
+      "Sanyu",
+      "createsuperuser",
+      "htmlcov"
+    ]
+}

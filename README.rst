@@ -12,6 +12,18 @@ Track learning, keep learning!
 
 :License: MIT
 
+Purpose
+-------
+
+I want to create this project to:
+
+* Keep track of my learning and reading
+* Learn Django + Vue.js development
+* Tools introduced by Django Cookiecutter
+* Build jobs with Jenkins
+* Deploy application to GCP or Kubernetes
+* Learn reStructuredText
+
 Settings
 --------
 
