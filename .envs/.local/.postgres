@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=sanyu
+POSTGRES_USER=eEPhkaMflbjbbAIWFgWYrBDRDhCRbJeg
+POSTGRES_PASSWORD=fDICSOArGH87RPwdr8mxOWu6lkH116lSwu08xMtL9rpLXd3EaSjCT1A1qybYSXZF
